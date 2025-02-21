@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
   scroll-behavior: smooth;
-  background-color: #f5f0dbd8;
+  background-color: #edf0c9;
 }
