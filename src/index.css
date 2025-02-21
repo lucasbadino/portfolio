@@ -8,5 +8,6 @@ body {
   box-sizing: border-box;
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
   scroll-behavior: smooth;
-  background-color: #edf0c9;
+  background-color: #f9fdd6de;
+  color: black;
 }

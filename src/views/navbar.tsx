@@ -1,9 +1,9 @@
 export const Navbar = () => {
     return (
         <nav
-            className="bg-gray-800 py-4 fixed top-0 w-full flex items-center justify-center"
+            className="bg-gray-800 py-4  top-0 w-full min-h-[15vh] flex items-center justify-center "
             style={{ 
-                backgroundColor: "#edf0c9",
+                backgroundColor: "#f9fdd6de",
                 opacity: "0.7",
             }}
         >
