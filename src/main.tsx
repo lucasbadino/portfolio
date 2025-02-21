@@ -6,9 +6,7 @@ import { Navbar } from './views/navbar'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <>
     <Navbar />
     <Footer />
-    </>
   </StrictMode>,
 )

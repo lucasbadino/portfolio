@@ -1,15 +1,16 @@
 export const Navbar = () => {
     return (
-        <nav className="bg-gray-800 py-4">
-            <div className="container mx-auto flex items-center justify-between">
-                <h1 className="text-white text-2xl font-bold">Your Company</h1>
-                <ul className="flex space-x-4">
-                    <li>
-                        <a href="#" className="text-white hover:text-gray-300">Home</a>
-                    </li>
-                    <li>
-                        <a href="#" className="text-white">About</a>
-                    </li>
+        <nav
+            className="bg-gray-800 py-4 fixed top-0 w-full flex items-center justify-center"
+            style={{ backgroundColor: "#f5f0dbd8" }}
+        >
+            <div className="container mx-auto flex items-center justify-center">
+                <ul className="flex space-x-4 m-auto rounded-2xl p-2 shadow-lg">
+                    <li>Home</li>
+                    <li>About Me</li>
+                    <li>Projects</li>
+                    <li>peter</li>
+                    <li>peter</li>
                 </ul>
             </div>
         </nav>
