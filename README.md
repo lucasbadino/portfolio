@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-this template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this;
+- Configure the top-level `parserOptions` property like this:
 
 ```js
 export default tseslint.config({
